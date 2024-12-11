@@ -15,7 +15,7 @@ body {
 
 /* Container to limit width and center content */
 .container {
-    width: 10%;
+    width: 100%;
     max-width: 10px;
     margin: 0 auto;
 }
